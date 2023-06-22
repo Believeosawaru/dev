@@ -1,0 +1,31 @@
+li {display: inline; list-style-type: none;
+padding: 0.5em;
+}
+li:first-child {margin-left: 10px;}
+ul {font-size: 0.9em; padding: 1em; 
+  color: #4942E4; font-weight: bold;
+}
+body{ background-color: white; color: 
+#4942E4;
+}
+input {border-radius: 50px; width: 105%; 
+  opacity: 0.5; margin: 0;
+}
+.div1 {background-color: black; width:
+  70%; border: 1px solid #4942E4;
+  margin-left: 14%;
+}
+.p1 {background-color: #dfdfdf
+; color: 
+#4942E4; border-radius: 50px; width: 100%; 
+text-align: center; height: 35px;
+margin-top: 3px; line-height: 35px;}
+.bbb {height: 
+210px; width: 40%}
+.span1 {color: #cfcfcf; font-weight: bold;
+}
+.alin {text-align: right; margin: 2px;
+color: #9f9f9f; font-weight: bold; 
+}
+.alin1 {text-align: center}
+.marg {margin-right: -19%;}

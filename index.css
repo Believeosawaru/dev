@@ -24,9 +24,9 @@ a {text-decoration: none; color: currentcolor;}
 .blend {color: black; margin-left: 250px; margin-top: 
 -150px; font-style: italic; font-family: serif;
 }
-img {width: 50%; height: 200px ;
+img {width: 50%; height: 200vh;
 }
-.li2 {color: blue;}
+.li2 {color: red;}
 .p1 {color:red; font-family: serif; text-shadow: 1px 1px
   1px black}
 }

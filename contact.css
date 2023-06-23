@@ -1,0 +1,13 @@
+body {background: linear-gradient(to right, #81D080, #4EB888);}
+a {text-decoration: none; color: currentcolor;}
+h1 {text-align: center; font-family: serif;
+color: #81D080
+}
+.center {text-align: center; font-variant: small-caps;}
+.assman {font-family: fantasy;}
+.heading {background-color: black; border: 1px solid black;}
+div {border: 1px solid black;}
+.p1 {color:red; text-shadow: 1px 1px 1px black;}
+@media (min-width:1000px) {
+  body {font-size: 2em;
+}

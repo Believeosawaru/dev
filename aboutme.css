@@ -12,7 +12,3 @@ div a {color: blue;}
 .alin a {color: currentcolor;}
 .p1 {color: red; text-shadow: 1px 1px 1px black;}
 .for {font-family: fantasy;}
-@media (min-width: 1000px) {
-  img {width: 300px; height: 290px;}
-p {font-size: 30px;}
-}

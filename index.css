@@ -3,9 +3,9 @@ background: linear-gradient(to right,
 #81D080, #4EB888); height: 4.5em; 
 font-family: Georgia;}
 .play {font-weight: bold; font-size: 
-1.7em; text-align: center; font-family: serif, Georgia, Garamond;}
+1.5em; text-align: center; font-family: serif, Georgia, Garamond;}
 .main {font-weight: bold; font-family: serif; 
-line-height: 0.0625em;}
+line-height: 0.0625em; font-size: 2em;}
 nav li {list-style-type: none; display: inline;}
 nav {line-height: 
 1.875em; 

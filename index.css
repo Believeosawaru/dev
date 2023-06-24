@@ -3,7 +3,7 @@ background: linear-gradient(to right,
 #81D080, #4EB888); height: 4.5em; 
 font-family: Georgia;}
 .play {font-weight: bold; font-size: 
-1.8em; text-align: center; font-family: serif, Georgia, Garamond;}
+1.7em; text-align: center; font-family: serif, Georgia, Garamond;}
 .main {font-weight: bold; font-family: serif; 
 line-height: 0.0625em;}
 nav li {list-style-type: none; display: inline;}
@@ -40,6 +40,4 @@ article {margin-top: 320px;}
 .under {text-decoration: underline;}
   article {margin-top: 520px; font-size: 1.6em;}
   .blend {margin-left: 500px; margin-top: -200px; 
-  font-size: 1.6em;} 
-  .boo {font-size: 1.5em;}
-}
+  font-size: 1.6em;}
